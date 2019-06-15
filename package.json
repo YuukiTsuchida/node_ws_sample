@@ -1,0 +1,22 @@
+{
+  "name": "node_ws_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuukiTsuchida/node_ws_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuukiTsuchida/node_ws_sample/issues"
+  },
+  "homepage": "https://github.com/YuukiTsuchida/node_ws_sample#readme",
+  "dependencies": {
+    "websocket": "^1.0.28"
+  }
+}
